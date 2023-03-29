@@ -1,5 +1,5 @@
 <h2> QR Code Application </h2>
-This is a Windows desktop application that allows you to generate and scan QR codes. The application was developed by [Your Name] and is intended for personal and non-commercial use.
+This is a Windows desktop application that allows you to generate and scan QR codes. The application was developed by Myself and is intended for personal and non-commercial use.
 
 <b>Installation</b>
 To install the application, follow these steps:
