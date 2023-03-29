@@ -1,0 +1,44 @@
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\ZeCode.exe.config
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\ZeCode.exe
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\ZeCode.pdb
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.Form1.resources
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.Properties.Resources.resources
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.qrcodewithlogo.resources
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.CopyComplete
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.exe
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.pdb
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\zxing.dll
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\zxing.presentation.dll
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\zxing.xml
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\zxing.presentation.xml
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.qrcodeonly.resources
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.barcodeonly.resources
+C:\Users\Dell\source\repos\ZeCode\ZeCode\obj\Debug\ZeCode.Loading.resources
+C:\Users\Dell\source\repos\ZeCode\ZeCode\bin\Debug\MySql.Data.dll
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.AssemblyReference.cache
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.barcodeonly.resources
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.Form1.resources
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.Loading.resources
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.Properties.Resources.resources
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.qrcodeonly.resources
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.qrcodewithlogo.resources
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.GenerateResource.cache
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.CoreCompileInputs.cache
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.exe
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.pdb
+G:\Application backup\ZeCode\ZeCode\bin\Debug\ZeCode.exe.config
+G:\Application backup\ZeCode\ZeCode\bin\Debug\ZeCode.exe
+G:\Application backup\ZeCode\ZeCode\bin\Debug\ZeCode.pdb
+G:\Application backup\ZeCode\ZeCode\bin\Debug\Guna.UI2.dll
+G:\Application backup\ZeCode\ZeCode\bin\Debug\Zen.Barcode.Core.dll
+G:\Application backup\ZeCode\ZeCode\bin\Debug\zxing.dll
+G:\Application backup\ZeCode\ZeCode\bin\Debug\zxing.presentation.dll
+G:\Application backup\ZeCode\ZeCode\bin\Debug\zxing.xml
+G:\Application backup\ZeCode\ZeCode\bin\Debug\zxing.presentation.xml
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.csproj.CopyComplete
+G:\Application backup\ZeCode\ZeCode\obj\Debug\ZeCode.about.resources
